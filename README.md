@@ -1,10 +1,12 @@
 # Localhost İçin Rapor Yükleme Sayfası Testi
----
+
 Bir şirkette çalışan insanların Gmail hesapları üzerinden giriş yapıp raporlarını pdf olarak yükleyebileceği bir sitedir.Sadece sistemde kaydı olan maillerin girişinin yapılması sağlanabilmektedir.
+---
 **Kurulum**
 - npm install ile modülleri yükleyin.
 - npm prisma generate ile prismayı aktifleştirin.
 - npm run dev ile serverı başlatın.
+---
 **Eklenmesi Gereken Kısımlar**
 - .env.example'ın adını .env yapın.
 - .env dosyasına keylerinizi ekleyin.
