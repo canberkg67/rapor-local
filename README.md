@@ -17,3 +17,8 @@ Bir şirkette çalışan insanların Gmail hesapları üzerinden giriş yapıp r
 - lib/auth.js kısmında const allowedEmails = [
     ...
   ]; kısmına giriş izni verilecek gmail hesaplarını tırnak içinde ekleyin.
+
+  ---
+
+  **Kullanılanlar**
+  - Nextjs App Router,Tailwind+ShadCN,Prisma+Postgresql,NextAuth-Google Provider
