@@ -20,5 +20,5 @@ Bir şirkette çalışan insanların Gmail hesapları üzerinden giriş yapıp r
 
   ---
 
-  **Kullanılanlar**
-  - Nextjs App Router,Tailwind+ShadCN,Prisma+Postgresql,NextAuth-Google Provider
+**Kullanılanlar**
+- Nextjs App Router,Tailwind+ShadCN,Prisma+Postgresql,NextAuth-Google Provider
